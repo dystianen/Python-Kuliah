@@ -1,0 +1,1 @@
+print("Indonesia"[1], "Indonesia"[5], "Indonesia"[2:4])

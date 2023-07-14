@@ -1,0 +1,8 @@
+print(50 * "=")
+print("Materi Tentang Record / Struktur")
+print(50 * "=")
+nim = int(input("Ketik NIM \t: "))
+nama = input("Ketik Nama \t: ").upper()
+nilai = int(input("Ketik Nilai \t: "))
+print()
+print(f"Hasil Data \t: {nim} {nama} {nilai}")
